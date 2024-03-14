@@ -1,6 +1,6 @@
 **Supermarket management system**
-
-|Description| Products, orders, users, customers management. Purchasing and importing products. Statistic using parameters and charts|
-|---------------------------------------|-------------------|
-|Number of members|4|
-|Technology in use|Winform C#, SQL Server|
+| Description                                    | Details                             |
+|------------------------------------------------|-------------------------------------|
+| Products, orders, users, customers management  | Number of members: 4                |
+| Purchasing and importing products              | Technology in use: Winform C#, SQL Server |
+| Statistic using parameters and charts          |                                     |
