@@ -1,4 +1,4 @@
-**Supermarket management system**
+**Supermarket management system** <br>
 Bài tập nhóm trong Học phần Lập trình hướng đối tượng dùng ngôn ngữ lập trình C# Ngành Toán Tin, HUST, học kì 2023.1
 | Description                                    | Details                             |
 |------------------------------------------------|-------------------------------------|
