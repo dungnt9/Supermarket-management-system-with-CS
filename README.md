@@ -1,5 +1,5 @@
 **Supermarket management system** <br>
-Bài tập nhóm trong Học phần Lập trình hướng đối tượng dùng ngôn ngữ lập trình C#
+Final group assignment in the Object-Oriented Programming module using the C# programming language
 | Description                                    | Details                             |
 |------------------------------------------------|-------------------------------------|
 | Products, orders, users, customers management  | Number of members: 4                |
